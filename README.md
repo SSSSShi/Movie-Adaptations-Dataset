@@ -1,4 +1,8 @@
-# Adaptation Impact: Analysis of Literary Works and Their Film/TV Adaptations
+# The Impact of Book-to-Movie Adaptations
+
+AIPI 510 Dataset Project
+
+Author: Reina Shi
 
 ## Overview
 

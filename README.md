@@ -4,7 +4,7 @@ AIPI 510 Dataset Project
 
 Author: Reina Shi
 
-## Overview
+## Executive Summary
 
 This dataset explores the relationship between literary works and their film/television adaptations, focusing on how adaptations influence the reception and appreciation of original works. The dataset contains information about books that have been adapted into films or TV shows, including their ratings, popularity metrics, and audience engagement data from Goodreads.
 
@@ -25,6 +25,29 @@ The film and television industry's increasing focus on IP adaptations has create
 - Strategic decision-making for publishers and producers
 - IP valuation and marketing strategy development
 
+## Previous Datasets Review
+
+Existing datasets in this domain include:
+
+1. **IMDb Datasets**
+   - Contains basic movie information
+   - Lacks direct connection to source material
+   - No book-specific metrics
+
+2. **Goodreads Datasets**
+   - Focus only on book metrics
+   - No adaptation information
+   - Limited to reading metrics
+
+3. **MovieLens**
+   - Movie ratings and metadata
+   - No book adaptation information
+   - Limited to viewer preferences
+
+Our dataset is novel in that it:
+- Combines both book and adaptation metrics
+- Enables direct analysis of adaptation impact
+  
 ## Data Description
 
 The dataset contains the following main fields:
